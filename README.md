@@ -13,7 +13,7 @@ This is a simple command-line Tic-Tac-Toe game built using Python. The game allo
   - `display.py`: Handles all display-related functions.
   - `logger.py`: Logs each move and game result to a file.
 
-## How to Run the Game
+## How to **Run** the Game
 
 1. Clone the repository
    ```bash
@@ -26,7 +26,7 @@ cd tic-tac-toe-a2
 ```bash
 python main.py
 ```
-## How to play the game
+## How to **Play** the Game
 
 1. **Start the Game**: After running the game (`python main.py`), you will be prompted to enter player names.
 
