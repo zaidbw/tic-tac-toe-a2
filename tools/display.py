@@ -8,4 +8,4 @@ def show_board(board):
     print(f"{b[6]} | {b[7]} | {b[8]}")
 
 def show_winner(name):
-    print(f"{name} wins the game!")
+    print(f"\n{name} wins the game!")
